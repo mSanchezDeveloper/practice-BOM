@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+body{
+    background-color: #272521;
+}
+
+.fecha-hora{
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* Efecto neon */
+.azul{
+    color: #fefdfa;
+    text-shadow: 0 0 5px #7bacff, 0 0 15px #7bacff, 0 0 25px #7bacff, 0 0 35px #7bacff, 0 0 45px #7bacff, 0 0 54px #7bacff, 0 0 75px #7bacff, 0 0 85px #7bacff, 0 0 95px #7bacff, 0 0 100px #7bacff;
+}
+
+.rosa{
+    color: #fefdfa;
+    text-shadow: 0 0 5px #ff7be2, 0 0 15px #ff7be2, 0 0 25px #ff7be2, 0 0 35px #ff7be2, 0 0 45px #ff7be2, 0 0 54px #ff7be2, 0 0 75px #ff7be2, 0 0 85px #ff7be2, 0 0 95px #ff7be2, 0 0 100px #ff7be2;
+}
+
+.verde{
+    color: #fefdfa;
+    text-shadow: 0 0 5px #80e4be, 0 0 15px #80e4be, 0 0 25px #80e4be, 0 0 35px #80e4be, 0 0 45px #80e4be, 0 0 54px #80e4be, 0 0 75px #80e4be, 0 0 85px #80e4be, 0 0 95px #80e4be, 0 0 100px #80e4be;
+}
