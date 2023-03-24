@@ -26,4 +26,10 @@ function obtenerFecha() {
     let horaReloj = document.querySelector('#hora');
     horaReloj.innerHTML = `${horas}:${minutos}:${segundos}`;
 }
-setInterval(obtenerFecha, 1000)
+setInterval(obtenerFecha, 1000);
+
+function cambiarColor(color){
+    let seccion = document.getElementsByClassName('fecha-hora');
+    console.log(seccion[0]);
+    seccion[0].className=`fecha-hora ${color}`;
+}
