@@ -6,6 +6,7 @@ body{
 
 .fecha-hora{
     font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
 }
 
 /* Efecto neon */
@@ -23,3 +24,20 @@ body{
     color: #fefdfa;
     text-shadow: 0 0 5px #80e4be, 0 0 15px #80e4be, 0 0 25px #80e4be, 0 0 35px #80e4be, 0 0 45px #80e4be, 0 0 54px #80e4be, 0 0 75px #80e4be, 0 0 85px #80e4be, 0 0 95px #80e4be, 0 0 100px #80e4be;
 }
+
+.bg-azul{
+    background-color: #7bacff;
+}
+
+.bg-rosa{
+    background-color: #ff7be2;
+}
+
+.bg-verde{
+    background-color: #80e4be;
+}
+
+.bg-azul:hover, .bg-rosa:hover, .bg-verde:hover{
+    background-color: #ffffff;
+}
+
